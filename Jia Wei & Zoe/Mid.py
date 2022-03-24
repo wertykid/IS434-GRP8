@@ -17,6 +17,6 @@ if(counter%2 == 0):
     print("Median is : "+str(med))
 else:
     med = likes[counter/2]
-    print("Median is : "+med)
+    print("Median is : "+str(med))
 
 
