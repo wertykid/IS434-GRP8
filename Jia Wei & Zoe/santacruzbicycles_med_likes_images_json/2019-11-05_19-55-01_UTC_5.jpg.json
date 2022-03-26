@@ -1,0 +1,1 @@
+[{"Name": "Power Drill", "Confidence": 94.24114990234375, "Instances": [{"BoundingBox": {"Width": 0.9492883682250977, "Height": 0.9474461078643799, "Left": 0.02856021374464035, "Top": 0.02635820209980011}, "Confidence": 94.24114990234375}], "Parents": [{"Name": "Tool"}]}, {"Name": "Tool", "Confidence": 94.24114990234375, "Instances": [], "Parents": []}]
