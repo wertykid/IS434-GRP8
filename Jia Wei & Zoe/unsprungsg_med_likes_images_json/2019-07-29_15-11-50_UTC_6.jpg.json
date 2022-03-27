@@ -1,0 +1,1 @@
+[{"Name": "Slingshot", "Confidence": 97.18824005126953, "Instances": [], "Parents": []}, {"Name": "Bow", "Confidence": 89.63949584960938, "Instances": [{"BoundingBox": {"Width": 0.918848991394043, "Height": 0.5802236795425415, "Left": 0.05504417419433594, "Top": 0.2577590346336365}, "Confidence": 89.63949584960938}], "Parents": []}]
