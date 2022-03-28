@@ -1,0 +1,1 @@
+[{"Name": "Poster", "Confidence": 85.8360824584961, "Instances": [{"BoundingBox": {"Width": 0.9362796545028687, "Height": 0.9970771074295044, "Left": 0.0, "Top": 0.0019969234708696604}, "Confidence": 57.496360778808594}], "Parents": [{"Name": "Advertisement"}]}, {"Name": "Advertisement", "Confidence": 85.8360824584961, "Instances": [], "Parents": []}]
