@@ -1,0 +1,1 @@
+[{"Name": "Person", "Confidence": 84.5711898803711, "Instances": [{"BoundingBox": {"Width": 0.24583236873149872, "Height": 0.9733932614326477, "Left": 0.008028948679566383, "Top": 0.00873715989291668}, "Confidence": 84.5711898803711}], "Parents": []}, {"Name": "Human", "Confidence": 84.5711898803711, "Instances": [], "Parents": []}]

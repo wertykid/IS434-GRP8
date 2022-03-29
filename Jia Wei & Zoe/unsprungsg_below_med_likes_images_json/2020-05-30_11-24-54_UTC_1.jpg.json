@@ -1,0 +1,1 @@
+[{"Name": "Wristwatch", "Confidence": 84.35153198242188, "Instances": [{"BoundingBox": {"Width": 0.6267485022544861, "Height": 0.6614521145820618, "Left": 0.027313487604260445, "Top": 0.201759472489357}, "Confidence": 84.35153198242188}], "Parents": []}, {"Name": "Plant", "Confidence": 82.20387268066406, "Instances": [], "Parents": []}]

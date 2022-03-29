@@ -1,0 +1,1 @@
+[{"Name": "Hammer", "Confidence": 87.97628784179688, "Instances": [{"BoundingBox": {"Width": 0.6041452288627625, "Height": 0.6505584120750427, "Left": 0.13691389560699463, "Top": 0.2818526327610016}, "Confidence": 87.97628784179688}], "Parents": [{"Name": "Tool"}]}, {"Name": "Tool", "Confidence": 87.97628784179688, "Instances": [], "Parents": []}]

@@ -1,0 +1,1 @@
+[{"Name": "Fire Hydrant", "Confidence": 81.80540466308594, "Instances": [{"BoundingBox": {"Width": 0.9780710935592651, "Height": 0.9994425773620605, "Left": 0.0, "Top": 0.0}, "Confidence": 81.80540466308594}], "Parents": [{"Name": "Hydrant"}]}, {"Name": "Hydrant", "Confidence": 81.80540466308594, "Instances": [], "Parents": []}]

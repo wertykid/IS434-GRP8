@@ -1,0 +1,1 @@
+[{"Name": "Camera", "Confidence": 97.94967651367188, "Instances": [{"BoundingBox": {"Width": 0.6905909776687622, "Height": 0.3476244807243347, "Left": 0.12103282660245895, "Top": 0.2567303478717804}, "Confidence": 92.23548126220703}], "Parents": [{"Name": "Electronics"}]}, {"Name": "Electronics", "Confidence": 97.94967651367188, "Instances": [], "Parents": []}]

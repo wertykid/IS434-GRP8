@@ -1,0 +1,1 @@
+[{"Name": "Backpack", "Confidence": 99.7728042602539, "Instances": [{"BoundingBox": {"Width": 0.870718240737915, "Height": 0.9679913520812988, "Left": 0.06672906130552292, "Top": 0.0}, "Confidence": 99.7728042602539}], "Parents": [{"Name": "Bag"}]}, {"Name": "Bag", "Confidence": 99.7728042602539, "Instances": [], "Parents": []}]
